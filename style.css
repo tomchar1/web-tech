@@ -1,0 +1,47 @@
+html {
+    background-image: url("img/tech-background.webp");
+    background-size: cover;
+}
+
+body {
+    background-color: white;
+    border: solid black;
+    width: 600px;
+    margin: 25px auto;
+    padding: 25px 150px 50px ;
+    border-radius: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+}
+
+h1,
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 2px;
+    
+
+}
+
+h2 {
+   margin-top: 50px; 
+   color: #1774bb;
+}
+
+a {
+    color: navy;
+}
+
+.orange {
+color: #f15c2a;
+}
+
+a:hover {
+    font-weight: bold;
+}
+.center {
+    text-align: center;
+}
+.yellow {
+    color: rgb(202, 202, 0);
+}
